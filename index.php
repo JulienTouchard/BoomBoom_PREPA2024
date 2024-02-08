@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <!-- modification -->
     <div id="logo">
         <img src="./assets/img/zoom_logo_only.png" alt="">
     </div>
